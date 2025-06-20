@@ -2,7 +2,7 @@
 🔭 I’m currently working on an Industry Level Project with real time collaboration.<br>👯 I’m looking to collaborate on full stack and real-time web & software projects.<br>🤝 I’m looking for help with optimizing apps for more better performance.<br>🌱 I’m currently learning Next.js & TypeScript.<br>💬 Ask me about building full stack apps with MERN and Java.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ironspidy_25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu25) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21119337) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanshusahu085@gmail.com) 
 
 # 💻 Tech Stack:
@@ -11,5 +11,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=Ironspidy2506&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ironspidy2506&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ironspidy2506&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
