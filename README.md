@@ -1,13 +1,13 @@
 # 💫 About Me:
-## 🔭 I’m currently working on an **Industry-Level Project** with real-time collaboration.
+#### 🔭 I’m currently working on an **Industry-Level Project** with real-time collaboration.
 
-## 👯 I’m looking to collaborate on **Full Stack** and **Real-Time Web & Software Projects**.
+#### 👯 I’m looking to collaborate on **Full Stack** and **Real-Time Web & Software Projects**.
 
-## 🤝 I’m looking for help with **Optimizing Apps** for better performance.
+#### 🤝 I’m looking for help with **Optimizing Apps** for better performance.
 
-## 🌱 I’m currently learning **Next.js** & **TypeScript**.
+#### 🌱 I’m currently learning **Next.js** & **TypeScript**.
 
-## 💬 Ask me about building **Full Stack Apps** with **MERN** and **Java**.
+#### 💬 Ask me about building **Full Stack Apps** with **MERN** and **Java**.
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ironspidy_25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu25) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21119337) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanshusahu085@gmail.com) 
